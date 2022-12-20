@@ -34,11 +34,11 @@ const Home: NextPage = () => {
           <Center>
           <Box marginBottom={4} color="white">
               <a
-                href="https://twitter.com/_buildspace"
+                href="https://twitter.com/mateopps"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                built with @_buildspace
+                built with @mateopps
               </a>
             </Box>
           </Center>
